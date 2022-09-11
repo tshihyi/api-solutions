@@ -15,7 +15,7 @@ demoe various api solutions, such as real-time stock price api with LINE inform,
 - token = 'your_token_id'
 
 
-##### `customer transaction log`
+##### `customer transaction log` [API Doc](https://customer-point-transaction-log.tshihyi.repl.co/docs#/)
 ##### This program privode customer point transaction log query with SWAGGER UI doc.
 ##### Data Dictionary
 
